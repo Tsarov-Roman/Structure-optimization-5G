@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Impact of Incomplete Input Data on Structural Optimization of 5G Base Station Placement"
+type: software
+authors:
+  - family-names: "Tsarov"
+    given-names: "Roman"
+    orcid: "https://orcid.org/0000-0001-9897-9672"
+    affiliation: "State University of Intelligent Technologies and Telecommunications"
+  - family-names: "Siden"
+    given-names: "Serhii"
+    orcid: "https://orcid.org/0000-0002-8708-0706"
+    affiliation: "State University of Intelligent Technologies and Telecommunications"
+version: "1.0.0"
+date-released: "2026-09-29"
+license: "MIT"
+repository-code: "https://github.com/Tsarov-Roman/Structure-optimization-5G"
+abstract: "Python implementation and experiment parameters for reproducing the numerical results on the impact of incomplete input data, represented by neglecting downlink intra-system interference, on structural optimization of indoor 5G base station placement."
+keywords:
+  - "5G"
+  - "base station placement"
+  - "structural optimization"
+  - "incomplete input data"
+  - "intra-system interference"
